@@ -1,0 +1,13 @@
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/305995f641df42b2b715f2dbff7211d3/b7db01d99f934caf8f9f723862c7b541.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/467d565d72c44f918cc31647a1d65b25/fb591d944e334447b52bc7aa759481e9.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/43bedea897914b37971a0944e4bb8f36/0ef1261b00cb4cb8add9b1e9b2683b03.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/4f543e40de584589a3b36c15f865e834/e4369ef2456a476ea92652140581baa9.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/b824297e75c34fb48d6bcc15449cc54e/ab2d44e04ee5482e9f3e84ee10cf77e8.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/791a24430df340b9b30450e2a5b04c6b/74c44bba61974f12872068382c92e235.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/64b1bc7713994472910fb4c84898ec73/f6a0b0974ff3401396b4a3e707aac4c8.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/8434c1356b2f4f74a214359472997d8b/be0427eaf5e24861a036e54e697883ed.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/0f5f191d0dd449d18ce3b1b34f57f35b/9b5f458cde7e40cdb41a22f8a8038912.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/0709671555ed4651a6b73a0a13f125b3/0a27701da7704ab18ef1ed9d2d2093e9.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/cc1544c5d27942f0b1d791dfffe4e3d5/496d64fcff194f8ea51545ebd7354311.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/cf9d07faa9e44a7dbf76460609157de6/0ec890ed3e91470297dd601dcc25910e.m3u8
+https://crehana-videos.akamaized.net/outputs/courses/videolecture/11512351f0474b3ba720fcfff8ccbbda/f017f373cace4f7e8feac7fd272bd003.m3u8
